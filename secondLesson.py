@@ -1,3 +1,2 @@
-firstname = "Aziz"
-lastname = "Safikhulla"
-print(type(firstname))
+ismarried = True
+print(ismarried)
